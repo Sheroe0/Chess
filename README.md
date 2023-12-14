@@ -24,7 +24,7 @@ Main Function
 The main function is where the game loop is implemented. It prompts the user to enter a move, validates the move, makes the move if it’s valid, and then prints the new state of the board. The game continues until a player is checkmated or a player resigns.
 
 How to Play
-To play the game, compile and run the program. You will be prompted to enter a move. A move is entered as the initial of the piece followed by the starting and ending coordinates of the move. For example, to move a pawn from e2 to e4, you would enter e2e4. To resign, you can enter resign.
+To play the game, compile and run the program. You will be prompted to enter a move. A move is entered as the initial of the piece followed by the starting and ending coordinates of the move. For example, to move a pawn from e2 to e4, you would enter e2 e4. To resign, you can enter resign.
 
 Please note that this game does not support castling, pawn promotion, or en passant. Also, it does not check for checkmate or stalemate, so the game continues until a player resigns.
 
